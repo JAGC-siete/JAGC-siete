@@ -2,9 +2,9 @@
 
 Hola. Puedes llamarme Jorge Arturo.
 
-Psicólogo. Más de diez años en RR. HH. Fundador de **Humano SISU** en Tegucigalpa: diseño, despliego y opero el software de planilla que ojalá hubiera existido cuando cerraba nómina a mano.
+Psicólogo. Más de diez años en RR. HH. Creador de **Humano SISU**: diseño, despliego y opero el software de planilla que ojalá hubiera existido cuando cerraba nómina a mano.
 
-No soy ingeniero de carrera. El caos quincenal me convirtió en quien construye el sistema.
+Soy psicólogo. El 8 a 5 me convirtió en Devops.
 
 ## Humano SISU
 
@@ -15,7 +15,7 @@ El reloj alimenta la nómina. IHSS, RAP e ISR van parametrizados. Los vouchers s
 - Producto: [humanosisu.net](https://www.humanosisu.net)
 - Empresa desde 2020. Equipo pequeño (2–10). Título público: DevOps Engineer. En la práctica: dominio de RR. HH., producto, infra y GTM.
 
-En producción, una operación de 35+ personas pasó de ~4 horas de cierre a unos clics (agosto 2025).
+En producción, una operación de 150+ personas pasó de ~4 horas de cierre a unos clics (agosto 2025).
 
 ## Ahora
 
@@ -24,10 +24,6 @@ En producción, una operación de 35+ personas pasó de ~4 horas de cierre a uno
 - Pivote de RR. HH. a DevOps, sin soltar el producto
 
 Certificaciones AWS: Cloud Practitioner · Developer Associate · Solutions Architect Associate
-
-## Cómo trabajo
-
-Sistemas para quien odia la planilla, no para el ingeniero. Directo, producto primero, sin secretos en el código. Mezclo ley laboral, hardware de asistencia y cloud.
 
 ## Stack
 
